@@ -29,6 +29,6 @@ Geben Sie entweder ``cmd`` oder ``powershell`` ein.
 `pip install -r requirements.txt`
 
 5. **Konfigurieren Sie den Discord-Webhook**<br />
-env muss erstellt werden mit dem Inhalt : `DISCORD_WEBHOOK_URL=discordwebhookurl`
+Eine .env muss im Selben Verzeichniss erstellt werden mit dem Inhalt : `DISCORD_WEBHOOK_URL=discordwebhookurl`
 6. **Starten Sie das Tool** <br />
 ``python main.py``
