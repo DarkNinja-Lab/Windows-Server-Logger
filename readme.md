@@ -12,7 +12,7 @@ Dieser Windows Event Logger liest Sicherheitsereignisse aus den Windows-Ereignis
 ## Installation und Nutuzng
 
 1. **Klonen Sie das Repository**<br />
-git clone https://github.com/IhrBenutzername/windows-event-logger.git
+git clone https://github.com/DarkNinja-Lab/Windows-Server-Logger.git
 
 2. **Navigieren Sie in das Projektverzeichnis**<br />
 cd windows-event-logger
